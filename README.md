@@ -1,3 +1,5 @@
+[![Known Vulnerabilities](https://snyk.io/test/github/mammykins/docker_python_app/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/mammykins/docker_python_app?targetFile=requirements.txt)
+
 # docker_python_app
 Simple container for Python App to practise Docker
 
